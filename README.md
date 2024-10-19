@@ -13,9 +13,9 @@ With 2+ years of experience in full-stack development, I bring a combination of 
 - **Other:** Clean Architecture, Problem-Solving
 
 ## Key Projects 📚
-- **Finance App Solution (Algorizin Inc.):** Built using Next.js and Stripe with Supabase backend
+- **[Finance App Solution (Algorizin Inc.)](https://finapp.algorizin.com):** Built using Next.js and Stripe with Supabase backend
 - **Study Tools Platform (Nasihahworld Inc.):** Interactive learning platform with voice quiz system
-- **Enterprise Web Applications:** Led optimization initiatives using Gatsby and headless WordPress CMS
+- **[Enterprise Web Applications(Greentechc apps Foundation)](https://gtaf.org/):** Led optimization initiatives using Gatsby and headless WordPress CMS
 
 ## Leadership & Recognition 🌟
 - **First Place** - AI Innovation Hackathon, Greentech Apps Foundation (2024)
